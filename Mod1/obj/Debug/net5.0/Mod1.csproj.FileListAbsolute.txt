@@ -1,0 +1,16 @@
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\Mod1.exe
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\Mod1.deps.json
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\Mod1.runtimeconfig.json
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\Mod1.runtimeconfig.dev.json
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\Mod1.dll
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\ref\Mod1.dll
+D:\Alevel\Mod1\Mod1\bin\Debug\net5.0\Mod1.pdb
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.csproj.AssemblyReference.cache
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.AssemblyInfoInputs.cache
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.AssemblyInfo.cs
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.csproj.CoreCompileInputs.cache
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.dll
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\ref\Mod1.dll
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.pdb
+D:\Alevel\Mod1\Mod1\obj\Debug\net5.0\Mod1.genruntimeconfig.cache
